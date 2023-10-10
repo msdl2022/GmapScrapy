@@ -2,7 +2,7 @@
 
 
 
-# Company Information Web Scraper
+# GmapScrapy - Company Information Web Scraper
 
 This Python script allows you to scrape information about companies in a specified country using Google Maps. It fetches details such as the postal code, address, name, and website (if available) for companies in the given country.
 
